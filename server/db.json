@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "name": "hussein",
+      "company": "google",
+      "email": "hussein@gmail.com",
+      "mobile": 10555565650,
+      "photo": "https://tse1.mm.bing.net/th?id=OIP.m-cHuMECEUfOuSTyMedaawHaHa&pid=Api&P=0",
+      "groupId": "2",
+      "title": "fullstack",
+      "id": 1
+    },
+    {
+      "name": "gogo",
+      "company": "lenovo",
+      "email": "gogo@gmail.com",
+      "mobile": 10555565650,
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.evZD8TxcDm8ayZRz1oJToQHaFe&pid=Api&P=0",
+      "groupId": "2",
+      "title": "back",
+      "id": 3
+    },
+    {
+      "name": "mona",
+      "company": "oppo",
+      "email": "mona@gmail.com",
+      "mobile": 10555565650,
+      "photo": "https://www.nicepng.com/png/full/128-1280406_user-icon-png.png",
+      "groupId": "3",
+      "title": "front",
+      "id": 2
+    },
+      {
+      "name": "mohamed",
+      "company": "lg",
+      "email": "mohamed@gmail.com",
+      "mobile": 10555565650,
+      "photo": "https://cdn.onlinewebfonts.com/svg/img_415639.png",
+      "groupId": "3",
+      "title": "team leader",
+      "id": 2
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "family"
+    },
+    {
+      "id": "4",
+      "name": "service"
+    }
+  ]
+}
